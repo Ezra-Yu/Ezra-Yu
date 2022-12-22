@@ -8,6 +8,6 @@
 <ul>
     <li> 📝 I'm mainly involved in Python, CV.</li>
     <li> 🎓 I'm a member of OpenMMLab.</li>
-    <li> 👯 I’m looking to collaborate on anything open source.</li>
-    <li> 🎨 I love programing, swimming, riding and so on.</li>
+    <li> 💻 I love programing and open source.</li>
+    <li> ⚡ Fun fact: I have a 😻.</li>
 </ul>
