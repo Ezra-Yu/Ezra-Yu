@@ -1,5 +1,5 @@
 <h2 align="center">Hi there<img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Ezra Yu </h2>
-<h4 align="center">A CV algorithms engineer of OpenMMLab</h4>
+<h4 align="center">A algorithms engineer</h4>
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
